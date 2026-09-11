@@ -8,6 +8,7 @@
 ## 🤖 AI 简历助手 (AI-Powered)
 * [ChatGPT](https://chatgpt.com) - 强大的 AI 对话模型，可用于内容润色。
 * [ReactiveResume](https://github.com/AmruthPillai/Reactive-Resume) - 开源、免费且尊重隐私的简历制作工具。
+* [ResumeAI](https://withresumeai.com/ats-checker) - Free ATS resume checker (3/day anonymous, 10/day free account); [State of ATS 2026](https://withresumeai.com/reports/state-of-ats-2026) dataset (738 employers, Workday 37.9%).
 
 ## 📄 简历模板 (Templates)
 * [Deedy-Resume](https://github.com/mzyy94/Deedy-Resume-OpenFont) - 经典的单页简历 LaTeX 模板。
