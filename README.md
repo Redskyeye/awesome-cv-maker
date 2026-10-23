@@ -7,6 +7,7 @@
 
 ## 🤖 AI 简历助手 (AI-Powered)
 * [ChatGPT](https://chatgpt.com) - 强大的 AI 对话模型，可用于内容润色。
+* [JobEmerge](https://www.jobemerge.work) - AI 求职助手，提供岗位匹配分析、19 种语言简历翻译、Markdown 编辑和文字模拟面试。
 * [ReactiveResume](https://github.com/AmruthPillai/Reactive-Resume) - 开源、免费且尊重隐私的简历制作工具。
 
 ## 📄 简历模板 (Templates)
